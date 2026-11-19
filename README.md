@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Tarrylim
-- 👀 I’m interested in Cybersecurity and Bug Bounty
-- 📫 You can reach me on tarrylim.z.yao@gmail.com or Twitter @TarryLimZ
+- 📫 You can reach me on tarrylim.z.yao@gmail.com or Twitter @TarrylimZ
 
 <!---
 Tarrylim/Tarrylim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
